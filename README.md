@@ -1,6 +1,6 @@
 ## Angular
 
-[![License]](https://angular.io/license)
+![License](https://angular.io/license)
 
 Complete JavaScript-based open-source front-end web application framework.
 
